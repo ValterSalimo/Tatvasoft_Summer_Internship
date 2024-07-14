@@ -1,0 +1,73 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\valte\\Desktop\\CE\\Summer internship\\final project\\Business_logic_Layer\\CIPlatfromWebAPI\\wwwroot\\Uploads\\MissionDoc\\Coursera AI_20240602104810.pdf",
+      "PackagePath": "staticwebassets\\Uploads\\MissionDoc\\Coursera AI_20240602104810.pdf"
+    },
+    {
+      "Id": "C:\\Users\\valte\\Desktop\\CE\\Summer internship\\final project\\Business_logic_Layer\\CIPlatfromWebAPI\\wwwroot\\Uploads\\MissionDoc\\Coursera AWD_20240602104810.pdf",
+      "PackagePath": "staticwebassets\\Uploads\\MissionDoc\\Coursera AWD_20240602104810.pdf"
+    },
+    {
+      "Id": "C:\\Users\\valte\\Desktop\\CE\\Summer internship\\final project\\Business_logic_Layer\\CIPlatfromWebAPI\\wwwroot\\Uploads\\MissionDoc\\pp3_20240603150844.jpeg",
+      "PackagePath": "staticwebassets\\Uploads\\MissionDoc\\pp3_20240603150844.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\valte\\Desktop\\CE\\Summer internship\\final project\\Business_logic_Layer\\CIPlatfromWebAPI\\wwwroot\\Uploads\\MissionDoc\\pp4_20240602213350.jpeg",
+      "PackagePath": "staticwebassets\\Uploads\\MissionDoc\\pp4_20240602213350.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\valte\\Desktop\\CE\\Summer internship\\final project\\Business_logic_Layer\\CIPlatfromWebAPI\\wwwroot\\Uploads\\MissionDoc\\pp_20240602230706.jpeg",
+      "PackagePath": "staticwebassets\\Uploads\\MissionDoc\\pp_20240602230706.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\valte\\Desktop\\CE\\Summer internship\\final project\\Business_logic_Layer\\CIPlatfromWebAPI\\wwwroot\\Uploads\\Mission\\PP2_20240602104810.jpeg",
+      "PackagePath": "staticwebassets\\Uploads\\Mission\\PP2_20240602104810.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\valte\\Desktop\\CE\\Summer internship\\final project\\Business_logic_Layer\\CIPlatfromWebAPI\\wwwroot\\Uploads\\Mission\\luffy_20240602213350.jpg",
+      "PackagePath": "staticwebassets\\Uploads\\Mission\\luffy_20240602213350.jpg"
+    },
+    {
+      "Id": "C:\\Users\\valte\\Desktop\\CE\\Summer internship\\final project\\Business_logic_Layer\\CIPlatfromWebAPI\\wwwroot\\Uploads\\Mission\\luffy_20240602230706.jpg",
+      "PackagePath": "staticwebassets\\Uploads\\Mission\\luffy_20240602230706.jpg"
+    },
+    {
+      "Id": "C:\\Users\\valte\\Desktop\\CE\\Summer internship\\final project\\Business_logic_Layer\\CIPlatfromWebAPI\\wwwroot\\Uploads\\Mission\\luffy_20240603150844.jpg",
+      "PackagePath": "staticwebassets\\Uploads\\Mission\\luffy_20240603150844.jpg"
+    },
+    {
+      "Id": "C:\\Users\\valte\\Desktop\\CE\\Summer internship\\final project\\Business_logic_Layer\\CIPlatfromWebAPI\\wwwroot\\Uploads\\Mission\\pp_20240602104810.jpeg",
+      "PackagePath": "staticwebassets\\Uploads\\Mission\\pp_20240602104810.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\valte\\Desktop\\CE\\Summer internship\\final project\\Business_logic_Layer\\CIPlatfromWebAPI\\wwwroot\\Uploads\\Mission\\pp_20240602213350.jpeg",
+      "PackagePath": "staticwebassets\\Uploads\\Mission\\pp_20240602213350.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\valte\\Desktop\\CE\\Summer internship\\final project\\Business_logic_Layer\\CIPlatfromWebAPI\\wwwroot\\Uploads\\Mission\\pp_20240603150844.jpeg",
+      "PackagePath": "staticwebassets\\Uploads\\Mission\\pp_20240603150844.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\valte\\Desktop\\CE\\Summer internship\\final project\\Business_logic_Layer\\CIPlatfromWebAPI\\wwwroot\\Uploads\\UserImage\\luffy_20240607113005.jpg",
+      "PackagePath": "staticwebassets\\Uploads\\UserImage\\luffy_20240607113005.jpg"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.Web_API.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.Web_API.props",
+      "PackagePath": "build\\Web_API.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.Web_API.props",
+      "PackagePath": "buildMultiTargeting\\Web_API.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.Web_API.props",
+      "PackagePath": "buildTransitive\\Web_API.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
