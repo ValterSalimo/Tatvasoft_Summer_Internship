@@ -1,0 +1,45 @@
+C:\Users\Asus\Desktop\New folder (2)\.NET CODE\Business_logic_Layer\bin\Debug\net8.0\Business_logic_Layer.deps.json
+C:\Users\Asus\Desktop\New folder (2)\.NET CODE\Business_logic_Layer\bin\Debug\net8.0\Business_logic_Layer.dll
+C:\Users\Asus\Desktop\New folder (2)\.NET CODE\Business_logic_Layer\bin\Debug\net8.0\Business_logic_Layer.pdb
+C:\Users\Asus\Desktop\New folder (2)\.NET CODE\Business_logic_Layer\bin\Debug\net8.0\Data_Access_Layer.dll
+C:\Users\Asus\Desktop\New folder (2)\.NET CODE\Business_logic_Layer\bin\Debug\net8.0\Data_Access_Layer.pdb
+C:\Users\Asus\Desktop\New folder (2)\.NET CODE\Business_logic_Layer\obj\Debug\net8.0\Business_logic_Layer.csproj.AssemblyReference.cache
+C:\Users\Asus\Desktop\New folder (2)\.NET CODE\Business_logic_Layer\obj\Debug\net8.0\Business_logic_Layer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\Desktop\New folder (2)\.NET CODE\Business_logic_Layer\obj\Debug\net8.0\Business_logic_Layer.AssemblyInfoInputs.cache
+C:\Users\Asus\Desktop\New folder (2)\.NET CODE\Business_logic_Layer\obj\Debug\net8.0\Business_logic_Layer.AssemblyInfo.cs
+C:\Users\Asus\Desktop\New folder (2)\.NET CODE\Business_logic_Layer\obj\Debug\net8.0\Business_logic_Layer.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\New folder (2)\.NET CODE\Business_logic_Layer\obj\Debug\net8.0\Business.B10BAD81.Up2Date
+C:\Users\Asus\Desktop\New folder (2)\.NET CODE\Business_logic_Layer\obj\Debug\net8.0\Business_logic_Layer.dll
+C:\Users\Asus\Desktop\New folder (2)\.NET CODE\Business_logic_Layer\obj\Debug\net8.0\refint\Business_logic_Layer.dll
+C:\Users\Asus\Desktop\New folder (2)\.NET CODE\Business_logic_Layer\obj\Debug\net8.0\Business_logic_Layer.pdb
+C:\Users\Asus\Desktop\New folder (2)\.NET CODE\Business_logic_Layer\obj\Debug\net8.0\ref\Business_logic_Layer.dll
+C:\Users\Asus\Desktop\PROJECT (.NET) vcs\.NET CODE\Business_logic_Layer\bin\Debug\net8.0\Business_logic_Layer.deps.json
+C:\Users\Asus\Desktop\PROJECT (.NET) vcs\.NET CODE\Business_logic_Layer\bin\Debug\net8.0\Business_logic_Layer.dll
+C:\Users\Asus\Desktop\PROJECT (.NET) vcs\.NET CODE\Business_logic_Layer\bin\Debug\net8.0\Business_logic_Layer.pdb
+C:\Users\Asus\Desktop\PROJECT (.NET) vcs\.NET CODE\Business_logic_Layer\bin\Debug\net8.0\Data_Access_Layer.dll
+C:\Users\Asus\Desktop\PROJECT (.NET) vcs\.NET CODE\Business_logic_Layer\bin\Debug\net8.0\Data_Access_Layer.pdb
+C:\Users\Asus\Desktop\PROJECT (.NET) vcs\.NET CODE\Business_logic_Layer\obj\Debug\net8.0\Business_logic_Layer.csproj.AssemblyReference.cache
+C:\Users\Asus\Desktop\PROJECT (.NET) vcs\.NET CODE\Business_logic_Layer\obj\Debug\net8.0\Business_logic_Layer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\Desktop\PROJECT (.NET) vcs\.NET CODE\Business_logic_Layer\obj\Debug\net8.0\Business_logic_Layer.AssemblyInfoInputs.cache
+C:\Users\Asus\Desktop\PROJECT (.NET) vcs\.NET CODE\Business_logic_Layer\obj\Debug\net8.0\Business_logic_Layer.AssemblyInfo.cs
+C:\Users\Asus\Desktop\PROJECT (.NET) vcs\.NET CODE\Business_logic_Layer\obj\Debug\net8.0\Business_logic_Layer.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\PROJECT (.NET) vcs\.NET CODE\Business_logic_Layer\obj\Debug\net8.0\Business.B10BAD81.Up2Date
+C:\Users\Asus\Desktop\PROJECT (.NET) vcs\.NET CODE\Business_logic_Layer\obj\Debug\net8.0\Business_logic_Layer.dll
+C:\Users\Asus\Desktop\PROJECT (.NET) vcs\.NET CODE\Business_logic_Layer\obj\Debug\net8.0\refint\Business_logic_Layer.dll
+C:\Users\Asus\Desktop\PROJECT (.NET) vcs\.NET CODE\Business_logic_Layer\obj\Debug\net8.0\Business_logic_Layer.pdb
+C:\Users\Asus\Desktop\PROJECT (.NET) vcs\.NET CODE\Business_logic_Layer\obj\Debug\net8.0\ref\Business_logic_Layer.dll
+C:\Users\valte\Desktop\CE\Summer internship\final project\Business_logic_Layer\Business_logic_Layer\bin\Debug\net8.0\Business_logic_Layer.deps.json
+C:\Users\valte\Desktop\CE\Summer internship\final project\Business_logic_Layer\Business_logic_Layer\bin\Debug\net8.0\Business_logic_Layer.dll
+C:\Users\valte\Desktop\CE\Summer internship\final project\Business_logic_Layer\Business_logic_Layer\bin\Debug\net8.0\Business_logic_Layer.pdb
+C:\Users\valte\Desktop\CE\Summer internship\final project\Business_logic_Layer\Business_logic_Layer\bin\Debug\net8.0\Data_Access_Layer.dll
+C:\Users\valte\Desktop\CE\Summer internship\final project\Business_logic_Layer\Business_logic_Layer\bin\Debug\net8.0\Data_Access_Layer.pdb
+C:\Users\valte\Desktop\CE\Summer internship\final project\Business_logic_Layer\Business_logic_Layer\obj\Debug\net8.0\Business_logic_Layer.csproj.AssemblyReference.cache
+C:\Users\valte\Desktop\CE\Summer internship\final project\Business_logic_Layer\Business_logic_Layer\obj\Debug\net8.0\Business_logic_Layer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\valte\Desktop\CE\Summer internship\final project\Business_logic_Layer\Business_logic_Layer\obj\Debug\net8.0\Business_logic_Layer.AssemblyInfoInputs.cache
+C:\Users\valte\Desktop\CE\Summer internship\final project\Business_logic_Layer\Business_logic_Layer\obj\Debug\net8.0\Business_logic_Layer.AssemblyInfo.cs
+C:\Users\valte\Desktop\CE\Summer internship\final project\Business_logic_Layer\Business_logic_Layer\obj\Debug\net8.0\Business_logic_Layer.csproj.CoreCompileInputs.cache
+C:\Users\valte\Desktop\CE\Summer internship\final project\Business_logic_Layer\Business_logic_Layer\obj\Debug\net8.0\Business.B10BAD81.Up2Date
+C:\Users\valte\Desktop\CE\Summer internship\final project\Business_logic_Layer\Business_logic_Layer\obj\Debug\net8.0\Business_logic_Layer.dll
+C:\Users\valte\Desktop\CE\Summer internship\final project\Business_logic_Layer\Business_logic_Layer\obj\Debug\net8.0\refint\Business_logic_Layer.dll
+C:\Users\valte\Desktop\CE\Summer internship\final project\Business_logic_Layer\Business_logic_Layer\obj\Debug\net8.0\Business_logic_Layer.pdb
+C:\Users\valte\Desktop\CE\Summer internship\final project\Business_logic_Layer\Business_logic_Layer\obj\Debug\net8.0\ref\Business_logic_Layer.dll
